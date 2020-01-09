@@ -11,7 +11,7 @@ export  class Splash extends Component {
     this.state = {
     };
   }
-
+///
 componentDidMount()
 {     
 
