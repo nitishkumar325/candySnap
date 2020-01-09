@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372679553752",
+    "firebase_url": "https://candysnap-f6904.firebaseio.com",
+    "project_id": "candysnap-f6904",
+    "storage_bucket": "candysnap-f6904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372679553752:android:9f9c51a1b37a6fd89b1dad",
+        "android_client_info": {
+          "package_name": "com.candysnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372679553752-ruap87dcmdjr8k1nqcer701rrlejlssd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.candysnap",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "372679553752-ski3bkcqrn8utmrkco42mq71pr44vf7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI2ZzzQtCDIf7zF72th-5Q1ODJKv187bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372679553752-ski3bkcqrn8utmrkco42mq71pr44vf7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
