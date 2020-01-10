@@ -13,7 +13,7 @@ import CreateProfile from './Screens/src/Screens/CreateYourProfile/createYourPro
 import Splash from './Screens/src/Screens/SplashScreen/Splash'
 import {Provider} from 'react-redux'
 import Store from './Screens/src/Store/store'
-
+import home from './Screens/src/Screens/Home/home'
 
 const AppNavigator = createStackNavigator({
 
@@ -25,12 +25,13 @@ const AppNavigator = createStackNavigator({
     ForgetPassword:ForgetPassword,
     ResetPassword:ResetPassword,
     CreateProfile:CreateProfile,
-    Splash:Splash
+    Splash:Splash,
+    home:home
 
   
 },{
   headerMode: 'none',
-  initialRouteName:'Splash',
+  initialRouteName:'home',
   navigationOptions: {
     headerVisible: false,
   }

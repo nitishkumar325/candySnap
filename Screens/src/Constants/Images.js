@@ -13,6 +13,15 @@ export default Images = {
     CreateProfileImage :require('../Assets/Images/gallery.png'),
     ProfileImage :require('../Assets/Images/ProfileImage.png'),
     editProfile :require('../Assets/Images/EditProfile.png'),
-    BackRight:require('../Assets/Images/BackRight.png')
+    BackRight:require('../Assets/Images/BackRight.png'),
+    HomeHeader:require('../Assets/Images/HomeHeader.png'),
+    SearchIcon:require('../Assets/Images/Search_icon.png'),
+    saveCandy:require('../Assets/Images/Saved_Kandis.png'),
+    home:require('../Assets/Images/Home_icon_Enable.png'),
+    Discover:require('../Assets/Images/Discover_icon_Disable.png'),
+    Notification:require('../Assets/Images/Notification_icon_Disable.png'),
+    ProfileIcon:require('../Assets/Images/Profile_icon_disable.png'),
+    ScanIcon:require('../Assets/Images/Scan_icon.png')
+
 
 }  
