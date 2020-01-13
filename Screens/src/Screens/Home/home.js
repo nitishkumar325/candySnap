@@ -13,7 +13,6 @@ export default class home extends Component {
   }
 
    changeState=(val)=>{
-     console.warn("call",val)
 if(val){
 this.setState({
 madeSelect:true,
