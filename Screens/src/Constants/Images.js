@@ -21,7 +21,12 @@ export default Images = {
     Discover:require('../Assets/Images/Discover_icon_Disable.png'),
     Notification:require('../Assets/Images/Notification_icon_Disable.png'),
     ProfileIcon:require('../Assets/Images/Profile_icon_disable.png'),
-    ScanIcon:require('../Assets/Images/Scan_icon.png')
+    ScanIcon:require('../Assets/Images/Scan_icon.png'),
+    EmptyGraphics:require('../Assets/Images/EmptyGraphic.png'),
+    CreateCandyHeader:require('../Assets/Images/BGPattern.png'),
+    PublicIcon:require('../Assets/Images/Public_Icon.png'),
+    PrivateIcon:require('../Assets/Images/Private_Icon.png')
+
 
 
 }  

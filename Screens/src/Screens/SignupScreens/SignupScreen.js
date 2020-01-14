@@ -45,6 +45,7 @@ this.props.navigation.goBack()
 
 
   setNewUserToFireBase=(res,uid)=>{
+     
 
    console.warn("save =>",res)
    var obj=res;

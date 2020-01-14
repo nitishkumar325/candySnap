@@ -19,15 +19,25 @@ export default styles = StyleSheet.create({
           fontFamily: (Platform.OS)==='ios'?'Ubuntu-Bold':'Ubuntu-B',
           fontSize: vh(24), 
      
-   },
+   },LookText:{
+      marginTop:vh(20),
+      color:'rgb(255,255,255)',
+      marginLeft:vw(50),
+       fontFamily: (Platform.OS)==='ios'?'Ubuntu-Bold':'Ubuntu-B',
+       fontSize: vh(20), 
+  
+},
    madeView:{
       flexDirection:'row',
       borderColor:'white',
+    
+  
+      
       borderWidth:2,
       borderRadius:vw(1000),
             marginTop:vh(26),
       width:vw(DesignWidth-32),
-      height:vh(55),
+      height:vh(58),
       marginHorizontal:vw(16)
 
 
